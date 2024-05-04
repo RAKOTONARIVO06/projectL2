@@ -1,0 +1,16 @@
+.myModal{
+   position: fixed;
+   top:0px;
+   left: 0px;
+   right: 0px;
+   bottom: 0px;
+   background: rgb(0, 0, 0,0.4);
+}
+
+.modalContainer{
+    width: 800px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: #ffffff;
+}
+

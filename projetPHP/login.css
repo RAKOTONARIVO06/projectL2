@@ -1,0 +1,16 @@
+body{
+
+background-color:antiquewhite;
+background-size: 100% 720px;
+padding: 0px;
+margin: 0px;
+}
+.container{
+width: 500px;
+height: 450px;
+background-color:black;
+border-radius: 4px;
+margin:0 auto;
+margin-top:160px;
+text-align: center;
+}
